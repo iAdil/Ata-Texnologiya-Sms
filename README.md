@@ -1,2 +1,2 @@
 # Ata-Texnologiya-Sms
-Eacily send sms via ata texnologiya bulk sms gate
+Easily send sms via ata texnologiya bulk sms gate
