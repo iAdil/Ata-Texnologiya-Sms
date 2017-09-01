@@ -1,0 +1,12 @@
+{
+    "name": "adil/atasms",
+    "description": "Easily send sms via ata texnologiya sms bulk gate",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adil Aliyev",
+            "email": "yumrooman@gmail.com"
+        }
+    ],
+    "require": {}
+}
