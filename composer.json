@@ -4,6 +4,7 @@
     "type": "library",
     "version": "dev-master",
     "minimum-stability" : "dev",
+    "license" : "GPL-3.0+",
     "authors": [
         {
             "name": "Adil Aliyev",
