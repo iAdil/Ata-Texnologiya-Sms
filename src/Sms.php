@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
+ * Created by Adil Aliyev.
  * Date: 05.09.2017
  * Time: 15:02
  */
