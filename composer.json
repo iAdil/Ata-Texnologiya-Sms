@@ -17,7 +17,6 @@
         "type": "git",
         "reference": "master"
     },
-    ,
     "require": {},
     "require-dev": {},
     "autoload": {
