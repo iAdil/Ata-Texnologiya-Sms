@@ -1,14 +1,18 @@
 {
     "name": "adil/atasms",
     "description": "Easily sending sms with AtaTexnologiya SMS Api",
-    "license": "propietary",
+    "keywords": [
+        "sms"
+    ],
+    "type": "library",
     "authors": [
         {
             "name": "Adil",
-            "email": "ceo@beylitech.az"
+            "email": "ceo@beylitech.az",
+            "homepage": "http://iAdil.com"
         }
     ],
-    "minimum-stability": "stable",
+    "license": "MIT",
     "require": {
         "php": ">=5.4.0"
     },
