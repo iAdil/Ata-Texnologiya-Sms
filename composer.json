@@ -3,6 +3,7 @@
     "description": "Easily send sms via ata texnologiya sms bulk gate",
     "type": "library",
     "version": "dev-master",
+    "minimum-stability" : "dev",
     "authors": [
         {
             "name": "Adil Aliyev",
