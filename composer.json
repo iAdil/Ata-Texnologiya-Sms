@@ -1,6 +1,6 @@
 {
     "name": "adil/atasms",
-    "description": "Test ata sms",
+    "description": "Eaily sending sms with AtaTexnologiya SMS Api",
     "license": "propietary",
     "authors": [
         {
@@ -8,6 +8,7 @@
             "email": "ceo@beylitech.az"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
