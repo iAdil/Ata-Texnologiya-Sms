@@ -17,5 +17,12 @@
         "type": "git",
         "reference": "master"
     },
-    "require": {}
+    ,
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "AtaTexnologiya\\SMS\\": "src"
+        }
+    }
 }
