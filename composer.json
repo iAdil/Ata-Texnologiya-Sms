@@ -1,27 +1,20 @@
 {
     "name": "adil/atasms",
-    "description": "Easily send sms via ata texnologiya sms bulk gate",
-    "type": "package",
-    "version": "dev",
-    "minimum-stability" : "dev",
-    "prefer-stable" : true,
-    "license" : "GPL-3.0+",
+    "description": "Test ata sms",
+    "license": "propietary",
     "authors": [
         {
-            "name": "Adil Aliyev",
-            "email": "yumrooman@gmail.com"
+            "name": "Adil",
+            "email": "ceo@beylitech.az"
         }
     ],
-    "source": {
-        "url": "git://github.com/iAdil/Ata-Texnologiya-Sms.git",
-        "type": "git",
-        "reference": "master"
+    "require": {
+        "php": ">=5.4.0"
     },
-    "require": {},
-    "require-dev": {},
-    "autoload": {
-        "psr-4": {
-            "AtaTexnologiya\\SMS\\": "src"
-        }
+    "require-dev": {
+        "phpunit/phpunit": "4.8.9"
+    },
+    "autoload":{
+        "classmap": ["src"]
     }
 }
