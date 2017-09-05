@@ -27,9 +27,10 @@
       <file leaf-file-name="Sms.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sms.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="537">
+              <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding>
+                <element signature="e#6#75#0#PHP" expanded="true" />
                 <marker date="1504613162728" expanded="true" signature="1239:1611" ph="..." />
                 <marker date="1504613162728" expanded="true" signature="1249:1507" ph="..." />
                 <marker date="1504613162728" expanded="true" signature="1517:1598" ph="..." />
@@ -38,25 +39,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-                <folding />
+              <first_editor relative-caret-position="256">
+                <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+                <folding>
+                  <marker date="1504615984888" expanded="true" signature="167:223" ph="{...}" />
+                  <marker date="1504615984888" expanded="true" signature="184:221" ph="{&quot;nesbot/carbon&quot;: &quot;~1.21&quot;...}" />
+                  <marker date="1504615984888" expanded="true" signature="411:435" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="480:487" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="518:524" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="555:569" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="598:612" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="647:661" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="767:774" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="805:811" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="842:856" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="885:899" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="934:948" ph="..." />
+                  <marker date="1504615984888" expanded="true" signature="985:1006" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -75,10 +81,10 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/src/AtaTexnologiya/Sms.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/src/Sms.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Sms.php" />
       </list>
     </option>
   </component>
@@ -255,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9107000" />
+    <option name="totallyTimeSpent" value="10369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -367,26 +373,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sms.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1504613162728" expanded="true" signature="1239:1611" ph="..." />
-            <marker date="1504613162728" expanded="true" signature="1249:1507" ph="..." />
-            <marker date="1504613162728" expanded="true" signature="1517:1598" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-            <folding />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="19">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -398,11 +389,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/Sms.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="537">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#75#0#PHP" expanded="true" />
+            <marker date="1504613162728" expanded="true" signature="1239:1611" ph="..." />
+            <marker date="1504613162728" expanded="true" signature="1249:1507" ph="..." />
+            <marker date="1504613162728" expanded="true" signature="1517:1598" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="256">
+            <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            <folding>
+              <marker date="1504615984888" expanded="true" signature="167:223" ph="{...}" />
+              <marker date="1504615984888" expanded="true" signature="184:221" ph="{&quot;nesbot/carbon&quot;: &quot;~1.21&quot;...}" />
+              <marker date="1504615984888" expanded="true" signature="411:435" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="480:487" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="518:524" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="555:569" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="598:612" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="647:661" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="767:774" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="805:811" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="842:856" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="885:899" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="934:948" ph="..." />
+              <marker date="1504615984888" expanded="true" signature="985:1006" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
