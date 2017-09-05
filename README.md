@@ -1,1 +1,1 @@
-test package
+Easily sending sms with AtaTexnologiya SMS Api
