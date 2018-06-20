@@ -40,8 +40,8 @@ use AtaTexnologiya\Sms;
 (new Sms())
     ->login('login') // your login
     ->password('pass') // your password
-    ->title('BeyliTech.az') // your title
-    ->number('994773930002') // sending sms number
+    ->title('iAdil') // your title
+    ->number('+0000') // sending sms number
     ->text('Sending sms!') // sending sms text
     ->send(); // send
 ```  
