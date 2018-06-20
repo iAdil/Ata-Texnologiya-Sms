@@ -51,8 +51,8 @@ use AtaTexnologiya\Sms;
 (new Sms())
     ->login('login') // your login
     ->password('pass') // your password
-    ->title('BeyliTech.az') // your title
-    ->number('994773930002') // sending sms number
+    ->title('iAdil') // your title
+    ->number('+0000') // sending sms number
     ->text('Sending sms!') // sending sms text
     ->schedule('2018-08-08 12:00:00') // when sms will be send
     ->send(); // send
